@@ -1,4 +1,1 @@
-# 3BodyProblem
 
-hah
-qhh
